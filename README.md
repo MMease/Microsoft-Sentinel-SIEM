@@ -22,7 +22,7 @@
 2. Go to "Microsoft Defender for Cloud"
   - Go to "Enviornment Settings" then select your honeypot.
   - Turn off Azure Defender for "SQL Servers on Machines"
-  - Got to datacollection and change the option to "All Events"
+  - Go to datacollection and change the option to "All Events"
 
 <img width="1792" alt="4  Microsoft Defender" src="https://github.com/MMease/Microsoft-Sentinel-SIEM/assets/42321472/a8ce8063-ba2a-4950-a4f7-92e10b2ea298">
 
