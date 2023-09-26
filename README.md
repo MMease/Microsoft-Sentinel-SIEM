@@ -114,7 +114,7 @@ FAILED_RDP_WITH_GEO_CL
 
 - After you finish the code. Run the query and select "Map" for visualization.
 
-- Your data when begin to plot and you're all done.
+- Your data will begin to plot and you're all done.
   
 ![Sentinel Query Code](https://github.com/MMease/Microsoft-Sentinel-SIEM/assets/42321472/47e375b4-5d6d-410a-b00f-fb5ace31804d)
 
